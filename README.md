@@ -6,4 +6,4 @@
 
 With a collection of smart UI components that are built to work on any device and also provide a better overall user experience, rUUI will let you build interfaces that delight your users and make them more productive on your website. Plus, rUUI fully embraces Web components, so you can make all this happen with more clarity and less code.  
 
-**Coming Summer 2017**. Click the *watch* button above to stay in the loop.
+**Coming Fall 2017**. Click the *watch* button above to stay in the loop.
